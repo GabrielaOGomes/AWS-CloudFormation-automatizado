@@ -1,6 +1,6 @@
 # 🚀 Infraestrutura Automatizada com AWS CloudFormation
 
-Este repositório documenta a implementação de uma infraestrutura automatizada utilizando **AWS CloudFormation**, explorando recursos como **Infrastructure Composer**, **Stacks**, **Importação de Recursos** e o **Gerador IaC**.
+Este repositório documenta a implementação de uma infraestrutura automatizada utilizando **AWS CloudFormation**, explorando recursos como **Infrastructure Composer**, **Stacks** e o **Gerador IaC**.
 
 ---
 
